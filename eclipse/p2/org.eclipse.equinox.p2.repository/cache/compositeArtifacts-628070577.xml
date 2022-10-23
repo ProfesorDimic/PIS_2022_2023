@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<?compositeArtifactRepository version='1.0.0'?>
+ <repository name='designer releases' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
+  <properties size='1'>i
+   <property name='p2.timestamp' value='1533712451000'/>
+  </properties>
+  <children size='2'>
+   <child location='1.0.5_papyrus-designer-oxygen_139'/>
+   <child location='1.0.5_papyrus-designer-oxygen_149'/>
+  </children>
+ </repository>

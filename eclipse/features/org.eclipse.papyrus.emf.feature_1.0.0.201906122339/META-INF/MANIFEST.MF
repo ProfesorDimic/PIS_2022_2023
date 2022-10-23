@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Built-By: genie.papyrus
+Created-By: Apache Maven 3.6.0
+Build-Jdk: 1.8.0_192
+
+Name: feature.xml
+SHA-256-Digest: ktiTkQhCHbvsY4agre3KlYEFcsYX8Vuq8sdYDsFlrYs=
+
+Name: feature.properties
+SHA-256-Digest: N34KSAJixiy8COaIgQ+zgdPF4hDsOy0b/I6bW9ehcw0=
+
+Name: license.html
+SHA-256-Digest: Dv5NbrV590iFepPFp4HDAA9w8zkHSynRW5FCE+FLHVM=
+

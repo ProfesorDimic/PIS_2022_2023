@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository name="Papyrus" type="org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository" version="1.0.0">
+  <properties size="1">
+    <property name="p2.timestamp" value="1492078054000"/>
+  </properties>
+  <children size="1">
+    <!--<child location="../../../milestones/2.0/RC4/extra"/> -->
+    <!-- <child location="../2.0.0/extra"/> -->
+    <!-- <child location="../2.0.1/extra"/> -->
+    <!-- <child location="../2.0.2/extra"/> -->
+    <child location="../2.0.3/extra"/>
+  </children>
+</repository>

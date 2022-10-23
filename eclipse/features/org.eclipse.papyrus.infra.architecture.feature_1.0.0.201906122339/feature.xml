@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.papyrus.infra.architecture.feature"
+      version="1.0.0.201906122339"
+      label="%featureName"
+      provider-name="%providerName">
+
+   <description url="https://eclipse.org/papyrus/">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="org.eclipse.papyrus.infra.architecture"
+         download-size="49"
+         install-size="102"
+         version="2.0.0.201906122339"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.infra.architecture.doc"
+         download-size="813"
+         install-size="913"
+         version="1.0.0.201906122339"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.infra.architecture.representation"
+         download-size="50"
+         install-size="127"
+         version="2.0.0.201906122339"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.papyrus.infra.architecture.representation.edit"
+         download-size="44"
+         install-size="86"
+         version="1.1.0.201906122339"
+         unpack="false"/>
+
+</feature>
